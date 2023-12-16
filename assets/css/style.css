@@ -63,7 +63,8 @@ h1 {
 main {
     background-color: lightblue;
     /* Make main element take up surplus space to push footer down */
-    flex: 1 0 auto
+    flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Navbar styles with dropdown toggle */
